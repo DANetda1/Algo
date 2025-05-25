@@ -7,3 +7,6 @@
 В папке "Screens" представлены скрины с графиками из Google Sheets.
 
 Ссылка на Google Sheets - https://docs.google.com/spreadsheets/d/1h7_ix5rqD2d6jRJIG8Dq5we0s1YJZH5H4tfY5teBfmY/edit?gid=0#gid=0
+
+
+Smart LMS под конец дедлайна как-то странно работал и непонятно было, получилось загрузить файл или нет, поэтому на всякий случай оставил тут zip-архив.
